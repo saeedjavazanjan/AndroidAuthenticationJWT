@@ -1,5 +1,6 @@
 package com.saeed.authentication.androidjwt.auth
 
+import com.saeed.authentication.androidjwt.JWT
 import retrofit2.http.Body
 import retrofit2.http.GET
 import retrofit2.http.Header
