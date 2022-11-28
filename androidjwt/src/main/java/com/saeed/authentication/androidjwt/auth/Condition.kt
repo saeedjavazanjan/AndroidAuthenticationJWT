@@ -1,6 +1,5 @@
 package com.saeed.authentication.androidjwt.auth
-
-public interface Condition {
+interface Condition {
     fun Authorized()
     fun Unauthorized()
     fun UnknownError()
